@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Webots local GUI workspace perspective
+*.wbproj
+.Arena.wbproj
+
+# Temporary & testing artifacts
+scratch/
+.system_generated/
+PeraBots_TestLab/
